@@ -1,7 +1,7 @@
 Boas vindas ao meu perfil 💙💙
 Meu nome é Samuel Sérgio
 
-Estou estudando na ![alura.com.br](link)
+Estou estudando na ![alura](link)
 Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 Você pode entrar em contato comigo 📫
